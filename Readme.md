@@ -44,8 +44,7 @@ This project demonstrates how to train an AI agent to drive using **Reinforcemen
 - **To Test the Agent**: Set the RunInference variable in **BP_SportsCarManager** to true and observe the driving behavior.
 
 ## Output
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3FySgZmYdn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/3FySgZmYdn8/0.jpg)](https://www.youtube.com/watch?v=3FySgZmYdn8)
 
 ## References
 - Unreal Engine Learning Agents: [Official Docs](https://dev.epicgames.com/community/learning/courses/GAR/unreal-engine-learning-agents-5-5/7dmy/unreal-engine-learning-to-drive-5-5)
